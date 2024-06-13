@@ -1,0 +1,36 @@
+# Git is a version control system
+
+# Why do we need git?
+=> It is used for version controlling
+=> It is used in team collaboration
+
+# Where do we store our code?
+=> In github / gitlab / bitbucket
+=> Github / gitlab / bitbucket understands the git language
+=> Github and gitlab are the cloud based software solution (web-application) running in the web, which understands
+the git terminologies and makes team collaboration easier.
+
+Q. Why not google drive? onedrive?
+=> Google drive / onedrive doesn't understand the git language (commits, branches,
+staging area and so on)
+=> Team collaboration is also not so helpful in cloud based drives
+
+git config --global user.name "asmee19"
+
+git config --global user.email "ashmitabca19@oic.edu.np"
+git config --global user.name
+git congig --global user.email
+
+
+what is repository(repo)?
+
+It is simply project folder in git
+
+#lets initiate a git repo
+    git init
+    git add .
+      => it makes your code recognize to staging area 
+
+    git commit -m "commit message"
+    => saving your codes and creating a new checkpoint
+    => It only saves the code in staging area
