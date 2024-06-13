@@ -34,3 +34,6 @@ It is simply project folder in git
     git commit -m "commit message"
     => saving your codes and creating a new checkpoint
     => It only saves the code in staging area
+
+
+    
