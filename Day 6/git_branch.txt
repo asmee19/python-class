@@ -1,4 +1,4 @@
-1. git branch
+ 1. git branch
     => It lists all the branches and highlights the current branch
 2. git branch <branch_name>
     => It creates a new branch
