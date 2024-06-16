@@ -1,1 +1,7 @@
 Hello
+
+
+git checkout branch branch_name
+git merge branch2
+git add .
+git commit -m " day 6 git commands"
